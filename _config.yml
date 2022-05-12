@@ -65,7 +65,7 @@ yat:
 # If you want to change the content width, you can set to another value
 # content_width: "920px"
 
-Google analytics
+# Google analytics
 google_analytics: [G-4RD593M3TL]
 
 # If you want to generate website sitemap, you can set true
