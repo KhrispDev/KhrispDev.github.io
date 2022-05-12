@@ -65,8 +65,8 @@ yat:
 # If you want to change the content width, you can set to another value
 # content_width: "920px"
 
-# Google analytics
-# google_analytics: [Tracking ID]
+Google analytics
+google_analytics: [G-4RD593M3TL]
 
 # If you want to generate website sitemap, you can set true
 # sitemap: false
@@ -146,12 +146,12 @@ yat:
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
-# header_pages:
-#   - index.html
-#   - archives.html
-#   - categories.html
-#   - tags.html
-#   - about.md
+header_pages:
+  - index.html
+  - archives.html
+  - categories.html
+  - tags.html
+  - about.md
 
 # Page default value
 # defaults:
