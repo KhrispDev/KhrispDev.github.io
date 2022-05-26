@@ -8,7 +8,7 @@ banner:
   loop: true
   volume: 0.8
   start_at: 0
-  image: https://bit.ly/3xTmdUP
+  image: https://khrispdev.github.io/web-assets/testing.jpg
   opacity: 0.618
   background: "#000"
   height: "100vh"
