@@ -8,11 +8,6 @@ tags: testing
 
 # Hello!
 
-<style>
-	* {
-    font-family: nunito;
-    }
-</style>
 <body>
 <h2>This Button Hides and Shows Text</h2>
 
