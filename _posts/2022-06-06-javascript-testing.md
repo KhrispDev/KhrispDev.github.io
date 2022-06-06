@@ -2,9 +2,9 @@
 layout: post
 title: Javascript Testing
 categories: testing
-  heading_style: "font-size: 4.25em; font-weight: bold; text-decoration: underline"
-tags: testing
+tags: [testing]
 ---
+
 
 <h1>Hello!</h1>
 
