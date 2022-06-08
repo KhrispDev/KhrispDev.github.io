@@ -153,10 +153,10 @@ header_pages:
 
 # Page default value
 # defaults:
-#   home:
-#     heading: "Your awesome heading"
-#     subheading: "Your awesome subheading"
-#     banner: "Your image url"
+  home:
+    heading: "Christopher's Cool Website"
+    subheading: "Website including interesting and random topics"
+    banner: "https://picsum.photos/4000/2000/?blur=5"
 
 # Banner default settings
 # These banner settings are for global banner default, but you can also
