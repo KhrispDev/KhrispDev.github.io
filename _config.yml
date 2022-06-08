@@ -156,7 +156,7 @@ defaults:
 home:
 heading: "Christopher's Cool Website"
 subheading: "Website including interesting and random topics"
-banner: "https://picsum.photos/4000/2000/?blur=5"
+banner: "https://picsum.photos/1000/500/?blur=5"
 
 # Banner default settings
 # These banner settings are for global banner default, but you can also
