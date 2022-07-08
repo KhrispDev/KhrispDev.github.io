@@ -1,5 +1,5 @@
 # 
-#                     --- YouTube Ad Blocklist ---
+#        --- YouTube Ad Blocklist ---
 # Original List: Evan Pratten (@ewpratten) https://github.com/Ewpratten/youtube_ad_blocklist
 # Added 127.0.0.01 to work with adaway by Christopher (@KhrispDev)
 # 
